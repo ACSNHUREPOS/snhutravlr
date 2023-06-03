@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Gale Reef",
+      "image": "reef1.jpg",
+      "description": "<p>This place is truly incredible! It's a vast expanse in the open sea filled with an abundance of sea fans. It's a location exclusively for skilled divers due to its challenging conditions. A swift descent with rapid negative buoyancy is necessary for entry. It's important to note that anchors should not be utilized at this site.</p>"
+    },
+  
+    {
+      "name": "Dawson's Reef",
+      "image": "reef2.jpg",
+      "description": "<p> This wreck is of moderate size and features a solitary boiler adorned with stunning black coral. It is highly recommended for technical divers.</p>"
+    },
+  
+    {
+      "name": "Claire's Reef",
+      "image": "reef3.jpg",
+      "description": "<p> For novice divers looking to embark on their diving journey, this reef serves as an excellent starting point. It offers a shallow environment with a maximum depth of 30 feet, ensuring a comfortable and manageable experience. Moreover, this location boasts a diverse array of fish and other captivating marine creatures, making it an ideal spot for observing marine life.</p>"
+    }
+  ]
+  
