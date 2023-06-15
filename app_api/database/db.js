@@ -45,7 +45,8 @@ const gracefulShutdown = (msg, callback) => {
     callback();
   });
 };
- 
+
+// nodemon restarts
 process.once("SIGUSR2", () => {
   gracefulShutdown("nodemon restart", () => {
     process.kill(process.pid, "SIGUSR2");
@@ -69,4 +70,5 @@ process.on("SIGTERM", () => {
 connect();
 
 // bring in schema
-require("../../app_server/models/travlr");
+require("./models/travlr");
+require("./models/user");
